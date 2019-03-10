@@ -8,13 +8,7 @@ const router = express.Router();
 // Talk to the model
 const burger = require(path.join(__dirname, "..", "models", "burger.js"));
 
-/****************************************************************************
- ****************************************************************************
-    
-    Set up routes
-    
-*****************************************************************************
-*****************************************************************************/
+
 router.get("/:id?", (req, res) => {
   function callback(results) {
     // Display a form for adding a burger
