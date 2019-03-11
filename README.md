@@ -6,3 +6,4 @@ Your burgers will be added to the list and you can move it to the devoured list 
 
 You can also delete and edit entries on a whim!
 
+![Image description](link-to-image)
